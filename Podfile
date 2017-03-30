@@ -8,4 +8,7 @@ target 'EmptyCocoapodsProject' do
   pod 'Bolts', '~> 1.8'
   pod 'Alamofire', '~> 4.4'
   pod 'Reveal-iOS-SDK', '~> 1.6'
+  pod 'Firebase', '~> 3.5'
+  pod 'FirebaseCrash', '~> 1.1'
+  pod 'FirebaseMessaging', '~> 1.2'
 end
