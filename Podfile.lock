@@ -36,6 +36,7 @@ PODS:
     - GoogleToolboxForMac/Defines (= 2.1.1)
   - Protobuf (3.2.0)
   - Reveal-iOS-SDK (1.6.2)
+  - SwiftyJSON (3.1.4)
 
 DEPENDENCIES:
   - Alamofire (~> 4.4)
@@ -44,6 +45,7 @@ DEPENDENCIES:
   - FirebaseCrash (~> 1.1)
   - FirebaseMessaging (~> 1.2)
   - Reveal-iOS-SDK (~> 1.6)
+  - SwiftyJSON (= 3.1.4)
 
 SPEC CHECKSUMS:
   Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
@@ -57,7 +59,8 @@ SPEC CHECKSUMS:
   GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
   Protobuf: 745f59e122e5de98d4d7ef291e264a0eef80f58e
   Reveal-iOS-SDK: e2250b3c155bcfac53ae223ddc1f76d08f206c33
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
 
-PODFILE CHECKSUM: f5077eecfe95afca5dbca1716910b6787ffafce0
+PODFILE CHECKSUM: b2dc88104e87fd59b743a8441535c87752c8ae32
 
 COCOAPODS: 1.2.0

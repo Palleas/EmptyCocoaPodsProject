@@ -11,4 +11,5 @@ target 'EmptyCocoapodsProject' do
   pod 'Firebase', '~> 3.5'
   pod 'FirebaseCrash', '~> 1.1'
   pod 'FirebaseMessaging', '~> 1.2'
+  pod 'SwiftyJSON', '3.1.4'
 end
