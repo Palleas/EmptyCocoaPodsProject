@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pod --version
+printenv | grep BB_CUSTOM_VAR
