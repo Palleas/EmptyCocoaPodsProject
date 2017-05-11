@@ -1,5 +1,9 @@
 #!/bin/bash
 
+node -v
+
+which n
+
 echo "export BB_CUSTOM_VAR_RC=romain" >> $HOME/.bashrc
 source $HOME/.bashrc
 echo "export BB_CUSTOM_VAR_PROFILE=romain" >> $HOME/.bash_profile
