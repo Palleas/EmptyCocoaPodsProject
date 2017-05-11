@@ -1,5 +1,11 @@
 #!/bin/bash
 
+which cordova
+
+npm install -g cordova
+
+which cordova
+
 node -v
 
 which n
